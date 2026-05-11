@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Genesis601.github.io/notes-4clbez/sitemap.xml
